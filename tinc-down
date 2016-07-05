@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "----- TINC DOWN" | tee -a /var/log/tinc-chuljin | logger -t tinc-chuljin
+ifconfig $INTERFACE down

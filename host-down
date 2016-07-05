@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "--- HOST DOWN: $NODE" | tee -a /var/log/tinc-chuljin | logger -t tinc-chuljin

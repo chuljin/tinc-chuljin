@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "----- SUBNET DOWN: $SUBNET $WEIGHT $NODE" | tee -a /var/log/tinc-chuljin | logger -t tinc-chuljin
+ip ro del $SUBNET dev $INTERFACE
