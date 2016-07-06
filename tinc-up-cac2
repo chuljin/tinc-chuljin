@@ -1,6 +1,4 @@
 #!/bin/sh
 echo "----- TINC UP" | tee -a /var/log/tinc-chuljin | logger -t tinc-chuljin
 ifconfig $INTERFACE up
-ip addr add 10.248.218.114/32 dev $INTERFACE
-
-
+ip addr add 10.248.218.114/24 broadcast 10.248.218.255 scope link dev $INTERFACE
