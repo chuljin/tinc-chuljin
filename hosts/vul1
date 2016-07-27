@@ -1,5 +1,5 @@
 address=vul1.chuljin.com
-subnet=10.248.218.117/32
+subnet=10.248.193.117/32
 subnet=10.248.117.0/24
 
 -----BEGIN RSA PUBLIC KEY-----
