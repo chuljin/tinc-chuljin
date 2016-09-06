@@ -1,3 +1,12 @@
 address=vul2.chuljin.com
 subnet=10.248.193.115/32
 subnet=10.248.115.0/24
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA97JIeKe8b35/7r3jRyfgdhM7A85Ff3kGIsfTpqC1fGMBp/OM6wz2
+vspKnDS++0DtfGgJupkK3FAJXARD652Br4f8LvTj+xW5+A+pM7VqLqhdq/AtsTSk
+DFnHhvgysO3w5jxK+WYxN2LLmj2InP+2Mhyot40veXjx/QqkyQsEugNAPBTeE3wL
+n1HvG6wqHk/uvw9+9eYA3ioHILJ35alZ0/hc6FD6y79gWv/9ZPut+OCC4e34nuVb
+rrLs7eKB9NjCbkZYpKYUoKeDVKGN9WnRCqghzIMAXdVSTZCGwHjjwxXBuf7EX1By
+blK7utskemlp3PakxlzS3Sp9eSuzaBA7SwIDAQAB
+-----END RSA PUBLIC KEY-----
