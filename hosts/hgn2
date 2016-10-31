@@ -1,6 +1,6 @@
 address=hgn2.chuljin.com
-subnet=10.248.193.116/32
-subnet=10.248.116.0/24
+subnet=10.248.193.52/32
+subnet=10.248.52.0/24
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAtN1aBGRHTNk5CrNEhH3UzLAPJRO4iLnYAisRNgbShHWNNTVzIEtg
