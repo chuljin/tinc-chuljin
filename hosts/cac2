@@ -1,6 +1,6 @@
 address=cac2.chuljin.com
-subnet=10.248.193.58/32
-subnet=10.248.58.0/24
+subnet=10.248.193.62/32
+subnet=10.248.62.0/24
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAyfdnBNo3Kt0okYKn9VnftvWQfKuB2AcWgFDJ0w7y0aSNq3WX79Yz
