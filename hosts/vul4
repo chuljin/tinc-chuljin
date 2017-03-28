@@ -3,3 +3,12 @@ subnet=10.248.193.58/32
 subnet=10.248.217.58/32
 subnet=10.248.222.58/32
 subnet=10.248.58.0/24
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAvxprWtmWwWmqqqodDoKiCpGWLOMIwMYaYe9Ygzqw+x4tGn+qFDIG
+PoULL8ehnXvbVVwTSb4uNDYgdwGgU4re4y6CZPCC/VYpQHFxGIy1tnxNsrjNdzHy
+CTiUA9S+g9va80juBhVbF1cWaiY5Y+m0QURtlQSuTkj1d3bMUh+XTjD7+70eRK4h
+a9qEA/PGXyWLtyILQ0PPhqCloLEm+wzw7CPJWpvGch8oqc1ayi6Pi2VVdni7AVrE
+B6vYskpg69k3bqtaH/fI4Bgx65hB2a9apM6Ol9saYmYaSvpRNai+1Bofiks8vrLl
+ldfucCXaz2ebIK0V8pM9OqqyDoZ9jBhdVQIDAQAB
+-----END RSA PUBLIC KEY-----
